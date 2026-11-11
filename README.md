@@ -60,7 +60,7 @@ Focused on delivering maintainable software, integrating modern technologies and
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## Selected Projects
+## 🚀 Selected Projects
 
 ### 01. VisionCloak — AI Human Invisibility System
 
@@ -68,7 +68,7 @@ A computer-vision application that uses MediaPipe human segmentation and OpenCV 
 
 **Stack:** Python · OpenCV · MediaPipe · NumPy · Gradio
 
-[Source Code](https://github.com/keerthanavinoth2003-maker/VisionCloak-AI-Human-Invisibility) · [Live Application](https://visioncloak-ai-human-invisibility.onrender.com)
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/keerthanavinoth2003-maker/VisionCloak-AI-Human-Invisibility) [![Visit](https://img.shields.io/badge/Visit_Live-2563EB?style=for-the-badge&logo=render&logoColor=white)](https://visioncloak-ai-human-invisibility.onrender.com)
 
 ### 02. Pathway — Job Application Tracking Platform
 
@@ -76,7 +76,7 @@ A full-stack job application management platform for organizing applications and
 
 **Stack:** React · Java · Spring Boot · MySQL · JWT
 
-[Source Code](https://github.com/keerthanavinoth2003-maker/pathway-job-tracker) · [Live Application](https://pathway-job-tracker-2aep-2zwyec0gq.vercel.app/)
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/keerthanavinoth2003-maker/pathway-job-tracker) [![Visit](https://img.shields.io/badge/Visit_Live-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://pathway-job-tracker-2aep-2zwyec0gq.vercel.app/)
 
 ### 03. NexusOps — Cloud Monitoring & Incident Management
 
@@ -84,7 +84,7 @@ A full-stack monitoring platform starter with service health, metrics, incident 
 
 **Stack:** Java 21 · Spring Boot · PostgreSQL · JWT · React · Docker
 
-[Source Code](https://github.com/keerthanavinoth2003-maker/NexusOps) · [Live Application](https://nexusopscloud.vercel.app/)
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/keerthanavinoth2003-maker/NexusOps) [![Visit](https://img.shields.io/badge/Visit_Live-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://nexusopscloud.vercel.app/)
 
 ### 04. Secure Banking Transaction System
 
@@ -92,9 +92,17 @@ A Java-based banking demonstration featuring account registration, authenticatio
 
 **Stack:** Java · Spring Boot · Spring Security · BCrypt · H2 / MySQL
 
-[Source Code](https://github.com/keerthanavinoth2003-maker/SecureBank-Blockchain) · [Live Application](https://securebank-blockchain.onrender.com/)
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/keerthanavinoth2003-maker/SecureBank-Blockchain) [![Visit](https://img.shields.io/badge/Visit_Live-2563EB?style=for-the-badge&logo=render&logoColor=white)](https://securebank-blockchain.onrender.com/)
 
-## Current Professional Development
+## 📊 GitHub Statistics
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=keerthanavinoth2003-maker&theme=github-dark-blue&hide_border=true)
+
+</div>
+
+## 🎯 Current Professional Development
 
 Developing knowledge in **Artificial Intelligence and Machine Learning**, with an emphasis on core concepts, data preparation, model development and practical computer-vision applications.
 
