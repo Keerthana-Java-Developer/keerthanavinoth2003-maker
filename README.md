@@ -13,8 +13,8 @@
 
 ## Professional Summary
 
-Software developer focused on designing and developing reliable full-stack applications, backend services and database-driven solutions using modern development practices.  
-Interested in building practical software, writing maintainable code and continuously strengthening engineering skills through hands-on projects.
+Full-stack software developer specializing in Java, Spring Boot, REST API development and database-driven applications, with hands-on experience building responsive web interfaces and backend solutions.  
+Focused on delivering maintainable software, integrating modern technologies and applying problem-solving skills to practical development projects.
 
 ## Technical Stack
 
@@ -84,7 +84,7 @@ A full-stack monitoring platform starter with service health, metrics, incident 
 
 **Stack:** Java 21 · Spring Boot · PostgreSQL · JWT · React · Docker
 
-[Source Code](https://github.com/keerthanavinoth2003-maker/NexusOps) · *Deployment in progress*
+[Source Code](https://github.com/keerthanavinoth2003-maker/NexusOps) · [Live Application](https://nexusopscloud.vercel.app/)
 
 ### 04. Secure Banking Transaction System
 
@@ -92,9 +92,9 @@ A Java-based banking demonstration featuring account registration, authenticatio
 
 **Stack:** Java · Spring Boot · Spring Security · BCrypt · H2 / MySQL
 
-[Source Code](https://github.com/keerthanavinoth2003-maker/SecureBank-Blockchain) · *Local demonstration; no public deployment*
+[Source Code](https://github.com/keerthanavinoth2003-maker/SecureBank-Blockchain) · [Live Application](https://securebank-blockchain.onrender.com/)
 
-## Current Focus
+## Current Professional Development
 
 Developing knowledge in **Artificial Intelligence and Machine Learning**, with an emphasis on core concepts, data preparation, model development and practical computer-vision applications.
 
