@@ -4,7 +4,7 @@
 
 ### Software Developer | Java & Backend Engineering | Full-Stack Development
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/keerthanavinoth2003-maker)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Keerthana-Java-Developer)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2457C5?style=for-the-badge&logo=google-chrome&logoColor=white)](https://keerthana-java-developer.github.io/keerthana-portfolio/)
 
 </div>
@@ -68,7 +68,7 @@ A computer-vision application that uses MediaPipe human segmentation and OpenCV 
 
 **Stack:** Python · OpenCV · MediaPipe · NumPy · Gradio
 
-[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/keerthanavinoth2003-maker/VisionCloak-AI-Human-Invisibility) [![Visit](https://img.shields.io/badge/Visit_Live-2563EB?style=for-the-badge&logo=render&logoColor=white)](https://visioncloak-ai-human-invisibility.onrender.com)
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Keerthana-Java-Developer/VisionCloak-AI-Human-Invisibility) [![Visit](https://img.shields.io/badge/Visit_Live-2563EB?style=for-the-badge&logo=render&logoColor=white)](https://visioncloak-ai-human-invisibility.onrender.com)
 
 ### 02. Pathway — Job Application Tracking Platform
 
@@ -76,7 +76,7 @@ A full-stack job application management platform for organizing applications and
 
 **Stack:** React · Java · Spring Boot · MySQL · JWT
 
-[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/keerthanavinoth2003-maker/pathway-job-tracker) [![Visit](https://img.shields.io/badge/Visit_Live-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://pathway-job-tracker-2aep-2zwyec0gq.vercel.app/)
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Keerthana-Java-Developer/pathway-job-tracker) [![Visit](https://img.shields.io/badge/Visit_Live-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://pathway-job-tracker-2aep-2zwyec0gq.vercel.app/)
 
 ### 03. NexusOps — Cloud Monitoring & Incident Management
 
@@ -84,7 +84,7 @@ A full-stack monitoring platform starter with service health, metrics, incident 
 
 **Stack:** Java 21 · Spring Boot · PostgreSQL · JWT · React · Docker
 
-[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/keerthanavinoth2003-maker/NexusOps) [![Visit](https://img.shields.io/badge/Visit_Live-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://nexusopscloud.vercel.app/)
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Keerthana-Java-Developer/NexusOps) [![Visit](https://img.shields.io/badge/Visit_Live-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://nexusopscloud.vercel.app/)
 
 ### 04. Secure Banking Transaction System
 
@@ -92,7 +92,7 @@ A Java-based banking demonstration featuring account registration, authenticatio
 
 **Stack:** Java · Spring Boot · Spring Security · BCrypt · H2 / MySQL
 
-[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/keerthanavinoth2003-maker/SecureBank-Blockchain) [![Visit](https://img.shields.io/badge/Visit_Live-2563EB?style=for-the-badge&logo=render&logoColor=white)](https://securebank-blockchain.onrender.com/)
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Keerthana-Java-Developer/SecureBank-Blockchain) [![Visit](https://img.shields.io/badge/Visit_Live-2563EB?style=for-the-badge&logo=render&logoColor=white)](https://securebank-blockchain.onrender.com/)
 
 ## 📊 GitHub Statistics
 
@@ -108,7 +108,7 @@ Developing knowledge in **Artificial Intelligence and Machine Learning**, with a
 
 ## Professional Links
 
-- [GitHub Repositories](https://github.com/keerthanavinoth2003-maker?tab=repositories)
+- [GitHub Repositories](https://github.com/Keerthana-Java-Developer?tab=repositories)
 - [Portfolio Website](https://keerthana-java-developer.github.io/keerthana-portfolio/)
 
 ---
