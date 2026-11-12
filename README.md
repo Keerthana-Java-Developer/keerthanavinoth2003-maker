@@ -2,8 +2,6 @@
 
 # Keerthana Vinoth
 
-![Profile Views](https://komarev.com/ghpvc/?username=Keerthana-Java-Developer&color=blue&style=flat)
-
 ### Software Developer | Java & Backend Engineering | Full-Stack Development
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Keerthana-Java-Developer)
