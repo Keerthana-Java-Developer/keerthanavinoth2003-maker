@@ -5,7 +5,7 @@
 ### Software Developer | Java & Backend Engineering | Full-Stack Development
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/keerthanavinoth2003-maker)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2457C5?style=for-the-badge&logo=google-chrome&logoColor=white)](https://keerthanavinoth2003-maker.github.io/keerthana-portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2457C5?style=for-the-badge&logo=google-chrome&logoColor=white)](https://keerthana-java-developer.github.io/keerthana-portfolio/)
 
 </div>
 
@@ -109,7 +109,7 @@ Developing knowledge in **Artificial Intelligence and Machine Learning**, with a
 ## Professional Links
 
 - [GitHub Repositories](https://github.com/keerthanavinoth2003-maker?tab=repositories)
-- [Portfolio Website](https://keerthanavinoth2003-maker.github.io/keerthana-portfolio/)
+- [Portfolio Website](https://keerthana-java-developer.github.io/keerthana-portfolio/)
 
 ---
 
